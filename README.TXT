@@ -1,4 +1,4 @@
-'TinyTpl
+''TinyTpl
 
 Über die Diskusion ob für PHP eine Template Sprache genutzt wird oder PHP 
 als eigene Template Sprache verwendet wird, entstand diese "Mini-Template"
